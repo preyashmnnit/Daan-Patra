@@ -1,4 +1,4 @@
-# buying_and_selling
+# Daan_Patra
 An online portal where you can buy and sell items. 
 
 > should have Xamp local host for Database.
