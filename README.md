@@ -1,5 +1,5 @@
 # Daan_Patra
-An online portal where you can buy and sell items. 
+An online portal where you can donate books to the needy ones. 
 
 > should have Xamp local host for Database.
 > All the above files are .php file thats why we need php apache server.
